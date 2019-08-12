@@ -4,8 +4,11 @@
 
 ## 相关链接
 
+[微信小程序](https://github.com/JunXia0425/DDJ)
+
 [小程序后端](https://github.com/JunXia0425/DDJ-Video)
 
 [管理平台后端](https://github.com/JunXia0425/DDJ-Admin)
 
-[管理平台前端]()
+[管理平台前端](https://github.com/JunXia0425/VideoManage)
+
