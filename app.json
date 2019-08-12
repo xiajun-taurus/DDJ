@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/videoinfo/videoinfo",
+    "pages/videotest/videotest",
+    "pages/userLogin/login",
+    "pages/report/report",
+    "pages/userRegist/regist",
+    "pages/chooseBgm/chooseBgm",
+    "pages/searchVideo/searchVideo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "嘟嘟军短视频",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
